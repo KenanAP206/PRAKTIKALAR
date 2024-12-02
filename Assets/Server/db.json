@@ -1,0 +1,17 @@
+{
+    "users":[{
+        "id": 1,
+        "name": "Rene",
+        "email": "rsustins0@nature.com",
+        "password": "vQ1~nPsX$/",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKuSURBVDjLdZLdS1NxGMdPRZLgPxBC0pVhWHgRXhiMdlEUQUXBLhLUMnux0gxUtBeX8yXzuCVbKS5Htunmppt7cW5OXGeerZZhObVA8DIaBtoLljr89pwjWm32gy8/Dvyez/N5Hg4DgPknvC6dwoLTjuNlWwwj6hh8qnF4m1g4FOnx7+OLy6hwCW8swKQTiLjX79dGINAOWKuX0F9elgjgdUkY63Rj3AS8twFcB+BhQV0BZy1gvwu4FMBoK+CoAbouutGRm/QHwGlVeEvFAsCnilGhlHSTNzuZy5KhL5biRVEMNoIZSwH1GXYd4G/LhP9JDOFeKmZjsNelwSFPIV0F6QZhLAmi+6oCuoIUaM+n4em5GPoqAeWxGFhpBoORVhX4LtJTC7pS2O6kwlo5h6FGwFIOmG/RXQF0yOagPp2KxyekBKExCoGmHJYh3Y8Im9Zns1Ylk24tXPUR0jXgWZ4E7TIJ6RpguB6B6mgFWo7sQsPhVfTSGPKsaYZ0lxGmLfdTN2PJ9hnOefOD3+4IhUJfeZ4Hx3Hw+/0IDvV/HnUPsKjP3kaFC+i9Ddzfv8iQ7jKCzwFDsbDdpHCIH1tZWcFWcbsHh3Hv4A7IDyyKo9VkfGdou7PoqwLpLpHuzjA38kt4rLDN/ZPBVxaUaXLXilpOoUAhWet+cEgATDPxf1YgEMAGgJv9IabOrIPcXADnlAbvPnmhHL4GmTIT2cW7mxMAwrwbgE7+i5i8h8cxEFFhYIZ+JDrNvktQ+i4LgJ8JAJ/PJwKi0ehmTlZnYXBKi7+PfVIjAJAA8Hg8ImB+fh4TExNiJKV78ch7AQ3efLG4wZP/fwOXy7UQv32NrR5nm/eB9RaKnYVb+N5yB3a7XW+1WqMWiwUmkwk9PT3Q6/W4opAt59zYsypoU75RGoX3vwEsUe6Qo5mAvAAAAABJRU5ErkJggg=="
+      }],
+
+      "company":[{
+        "id": 1,
+        "companyname": "Rene",
+        "location": "rsustins0@nature.com",
+        "industry": "vQ1~nPsX$/",
+        "website": "youtube.com"
+      }]
+}
